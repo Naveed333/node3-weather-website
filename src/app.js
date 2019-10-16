@@ -1,7 +1,7 @@
 const hbs = require('hbs')
 const express = require('express')
 const path = require('path')
-
+console.log('hello')
 const app = express()
 
 //Define path for express config
